@@ -1,0 +1,7 @@
+flags: {}
+packages:
+- '.'
+extra-deps: [
+ urlencoded-0.4.1
+]
+resolver: lts-3.1
